@@ -1,0 +1,12 @@
+{
+    "name": "cxp/laravel-avatar",
+    "description": "这是一个口扩展",
+    "authors": [
+        {
+            "name": "zhaojin",
+            "email": "2223644122@qq.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
