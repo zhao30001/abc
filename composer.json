@@ -8,5 +8,10 @@
         }
     ],
     "minimum-stability": "alpha",
+    "autoload": {
+        "psr-4": {
+            "Cxp\\Avatar\\": "src"
+        }
+    },
     "require": {}
 }
